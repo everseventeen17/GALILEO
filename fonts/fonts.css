@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'PT Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url('./pt-mono/PT-Mono_Bold.woff2') format('woff2'),
+    url('./pt-mono/PT-Mono_Bold.woff') format('woff'),
+    url('./pt-mono/PT-Mono_Bold.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url('./pt-sans/PTSans-Bold.woff') format('woff'),
+    url('./pt-sans/PTSans-Bold.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url('./pt-sans/PTSans-Regular.woff') format('woff'),
+    url('./pt-sans/PTSans-Regular.ttf') format('ttf');
+}
